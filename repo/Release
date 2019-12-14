@@ -1,8 +1,8 @@
-Origin: SarahH12099 Repo
-Label: SarahH12099 Repo
+Origin: Ahmad Mokadam
+Label: Ahmad Mokadam
 Suite: stable
 Version: 1.0
-Codename: sarahh12099repo
+Codename: Ahmad Mokadam repo
 Architectures: iphoneos-arm
 Components: main
-Description: SarahH12099 Repo
+Description: ahmadmokaddam Repo
