@@ -22,7 +22,7 @@ body {
 	color: #feeef5 !important;
 	border: solid 1px #d2729e;
 	background: #f895c2;
-	background: -webkit-gradient(linear, left top, left bottom, from(#ff0000), to(#d3f0ff));
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffc30b), to(#d3f0ff));
 	background: -moz-linear-gradient(top, #ffc30b, ##d3f0ff);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc30b', endColorstr='#d3f0ff');
 	zoom: 1;
