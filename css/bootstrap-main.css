@@ -10,7 +10,7 @@
    	box-shadow: none !important;
 }
 body {
-	background: linear-gradient(to right, #170f10, #ff0000);
+	background: linear-gradient(to right, #07f7a3, #ff0000);
 }
 .desktop {
 	display: inline !important;
@@ -19,7 +19,7 @@ body {
 	display: none !important;
 }
 .addrepo {
-	color: #feeef5 !important;
+	color:#f7167f !important;
 	border: solid 1px #d2729e;
 	background: #f895c2;
 	background: -webkit-gradient(linear, left top, left bottom, from(#ffc30b), to(#d3f0ff));
