@@ -23,8 +23,8 @@ body {
 	border: solid 1px #d2729e;
 	background: #f895c2;
 	background: -webkit-gradient(linear, left top, left bottom, from(#ff0000), to(#d3f0ff));
-	background: -moz-linear-gradient(top, #ff0000, ##d3f0ff);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0000', endColorstr='#d3f0ff');
+	background: -moz-linear-gradient(top, #ffc30b, ##d3f0ff);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffc30b', endColorstr='#d3f0ff');
 	zoom: 1;
 	vertical-align: baseline;
 	margin: 0 2px;
