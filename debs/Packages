@@ -1,0 +1,44 @@
+Package: co.xrepo.mokadam.whatsapprevael
+Name: Whatsapp Revael
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ahmad Mokadam
+Author: Ahmad Mokadam
+Section: Tweaks
+Version: 8.0
+Installed-Size: 690
+Filename: ./debs/Revael8.0.deb
+Size: 514252
+MD5sum: 499ae3cc23de9f13917a1faee0e1fbdb
+SHA1: 9a44066f0aa97e5607c410e2ffee426f4c0796b4
+SHA256: 0f717d9658a696f85413572823f487900fa35dace08cf3f7f9d9eee70695a055
+
+Package: co.xrepo.mokadam.phoneclass
+Name: Phone Class
+Version: 4.0
+Section: Tweaks
+Filename: ./debs/PhoneClass4.0.deb
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 392
+Author: Ahmad Mokadam <ahmadmokaddam@gmail.com>
+Maintainer: Ahmad Mokadam <ahmadmokaddam@gmail.com>
+Description: An awesome MobileSubstrate tweak!
+MD5sum: 92a3ed1ca7630c46053bb8dbde65b113
+SHA1: 54c8b99196b714085e27fbfe511fc8309e3bf0c1
+SHA256: bdd33989b975b475add0bcae2cb6e71a8ad981d9c8542b2d264b05698f5d6240Package: co.xrepo.mokadam.whatsapprevael
+Name: Whatsapp Revael
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Ahmad Mokadam
+Author: Ahmad Mokadam
+Section: Tweaks
+Version: 8.0
+Installed-Size: 690
+Filename: ./debs/Revael8.0.deb
+Size: 514252
+MD5sum: 499ae3cc23de9f13917a1faee0e1fbdb
+SHA1: 9a44066f0aa97e5607c410e2ffee426f4c0796b4
+SHA256: 0f717d9658a696f85413572823f487900fa35dace08cf3f7f9d9eee70695a065
